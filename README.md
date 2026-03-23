@@ -15,7 +15,7 @@ Software developer in transition, focused on building practical solutions with p
     </a>
     <a href="https://github.com/deniseferino?tab=followers">
         <img 
-            alt="Seguidores" 
+            alt="Followers" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/deniseferino?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"
         />
@@ -24,7 +24,7 @@ Software developer in transition, focused on building practical solutions with p
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
