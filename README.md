@@ -21,25 +21,40 @@ Software developer in transition, focused on building practical solutions with p
         />
     </a>
 </p>
-
+    
 ---
 
 ### 🤖 Languages ​​and Technologies
 
+<div style="display: inline_block"><br>
 <img 
     align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+
+<img 
+    align="center" 
+    alt="Rafa-HTML" 
+    height="30" 
+    width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    
+<img 
+    align="center" 
+    alt="CSS" 
+    height="30" 
+    width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
 <img 
     align="left" 
     alt="Spring"
     title="Spring" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+    style="padding-right: 10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+
 <img 
     align="left" 
     alt="SQL"
@@ -48,8 +63,8 @@ Software developer in transition, focused on building practical solutions with p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>      
     <img 
-  width="150" 
-  height="150" 
+  width="130" 
+  height="130" 
   alt="image" 
   align="right"
   src=https://media.tenor.com/Nuw6gPeDlu4AAAAm/chibi-haachama-hololive.webp/>
