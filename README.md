@@ -83,14 +83,14 @@ src=https://media.tenor.com/Nuw6gPeDlu4AAAAm/chibi-haachama-hololive.webp/>
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=deniseferino&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=deniseferino&show_icons=true&theme=ambient_gradient&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniseferino&theme=merko&layout=compact&custom_title=Technologies&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniseferino&theme=neon&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
 </p>
