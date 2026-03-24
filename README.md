@@ -82,7 +82,7 @@ src=https://media.tenor.com/Nuw6gPeDlu4AAAAm/chibi-haachama-hololive.webp/>
   <br>
 </p>
    
-### 📊 Statistics
+## 📊 Statistics
 
 <p>
   <img 
